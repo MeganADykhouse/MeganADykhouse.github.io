@@ -1,0 +1,24 @@
+<style>
+		body { 
+			background-image: url("Doctorwho.jpg");
+			padding: 10%;
+
+			}
+			p{
+				font-size: 25px;
+				outline: dotted;
+				outline-width: 3px;
+				outline-color: red;
+				margin: 50px;
+				padding: 20px;
+				display: block;
+
+			}
+			#myid{
+				color: white;
+				font: 20; 
+			} 
+			.media {
+				color: white;
+			}
+	</style>
